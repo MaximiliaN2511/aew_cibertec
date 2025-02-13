@@ -1,0 +1,20 @@
+
+h1 {    
+    color:red;
+    margin:10;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color:brown
+}
+
+.datos-contacto{
+    color:rgb(131, 33, 188)
+}
+
+.contenedor-principal{
+    background-color: rgb(248, 211, 225);
+    color:rgb(50, 28, 192)
+}
