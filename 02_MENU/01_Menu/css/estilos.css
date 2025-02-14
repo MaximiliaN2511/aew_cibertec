@@ -1,4 +1,13 @@
 
 body {
     background-image: url(../images/fondomadera.png);
+
+}
+
+nav {
+    max-width: 900px;
+    margin: auto;
+    background-color: #FEF9E1;
+    font-size: 20px;
+    margin-top: 50px;
 }
