@@ -18,3 +18,10 @@ h2 {
     background-color: rgb(248, 211, 225);
     color:rgb(50, 28, 192)
 }
+
+.foto-perfil img {
+    width:40px;
+    align-content: center;
+    border-width: 8px;
+    border-style: solid;
+}
