@@ -1,0 +1,26 @@
+
+body {
+    background-image: url(../image/playa.png);
+}
+
+nav {
+    max-width: 900px;
+    margin:auto;
+    background-color: rgb(159, 250, 255);
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.menu-horizontal {
+    display:flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.Submenu-catalogo {
+    position: absolute;
+    list-style: none;
+    width: 200px;
+    background-color: rgb(43, 198, 209);
+    display:none;
+}
